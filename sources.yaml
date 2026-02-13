@@ -1,0 +1,503 @@
+# ============================================================================
+# MULTILATERAL AI GOVERNANCE DAILY DIGEST — SOURCE CONFIGURATION
+# ============================================================================
+# Monitors international bodies, governments, think tanks, and civil society
+# for developments in AI governance, regulation, and policy.
+# ============================================================================
+
+# --- INTERNATIONAL ORGANIZATIONS ---
+international_orgs:
+  - name: "OECD AI Policy Observatory"
+    url: "https://oecd.ai/"
+    type: web_scrape
+    keywords: ["governance", "policy", "regulation", "principles", "recommendation"]
+    priority: high
+
+  - name: "UNESCO - AI Ethics"
+    url: "https://www.unesco.org/en/artificial-intelligence"
+    type: web_scrape
+    keywords: ["ethics", "recommendation", "governance", "member states"]
+    priority: high
+
+  - name: "ITU - AI Activities"
+    url: "https://www.itu.int/en/ITU-T/AI/Pages/default.aspx"
+    type: web_scrape
+    keywords: ["standard", "governance", "summit", "AI for good"]
+    priority: high
+
+  - name: "UN Secretary-General - AI Advisory Body"
+    url: "https://www.un.org/en/ai-advisory-body"
+    type: web_scrape
+    keywords: ["governance", "advisory", "recommendation", "global", "compact"]
+    priority: high
+
+  - name: "UN General Assembly"
+    url: "https://www.un.org/en/ga/"
+    type: web_scrape
+    keywords: ["artificial intelligence", "AI", "digital", "technology governance"]
+    priority: medium
+
+  - name: "UN OHCHR - AI & Human Rights"
+    url: "https://www.ohchr.org/en/topic/new-technologies"
+    type: web_scrape
+    keywords: ["artificial intelligence", "AI", "surveillance", "rights", "bias"]
+    priority: high
+
+  - name: "Global Partnership on AI (GPAI)"
+    url: "https://gpai.ai/"
+    type: web_scrape
+    keywords: ["governance", "responsible", "working group", "summit", "report"]
+    priority: high
+
+  - name: "World Economic Forum - AI"
+    url: "https://www.weforum.org/topics/artificial-intelligence-and-robotics/"
+    type: web_scrape
+    keywords: ["governance", "regulation", "framework", "global"]
+    priority: medium
+
+  - name: "G7/G20 Digital & AI"
+    url: "https://www.g7italy.it/"
+    type: web_scrape
+    keywords: ["artificial intelligence", "AI", "digital", "governance", "Hiroshima"]
+    priority: medium
+
+  - name: "Council of Europe - AI"
+    url: "https://www.coe.int/en/web/artificial-intelligence"
+    type: web_scrape
+    keywords: ["convention", "treaty", "framework", "rights", "governance"]
+    priority: high
+
+# --- NATIONAL REGULATORS & GOVERNMENTS ---
+national_government:
+  - name: "EU AI Act - European Commission"
+    url: "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+    type: web_scrape
+    keywords: ["AI act", "regulation", "compliance", "high-risk", "enforcement"]
+    priority: high
+
+  - name: "European AI Office"
+    url: "https://digital-strategy.ec.europa.eu/en/policies/ai-office"
+    type: web_scrape
+    keywords: ["governance", "code of practice", "general purpose", "enforcement"]
+    priority: high
+
+  - name: "UK AI Safety Institute"
+    url: "https://www.aisi.gov.uk/"
+    type: web_scrape
+    keywords: ["safety", "evaluation", "frontier", "testing", "report"]
+    priority: high
+
+  - name: "US AI Safety Institute (NIST)"
+    url: "https://www.nist.gov/artificial-intelligence/ai-safety-institute"
+    type: web_scrape
+    keywords: ["safety", "standard", "framework", "evaluation", "testing"]
+    priority: high
+
+  - name: "White House OSTP - AI"
+    url: "https://www.whitehouse.gov/ostp/ai/"
+    type: web_scrape
+    keywords: ["executive order", "policy", "AI", "governance", "framework"]
+    priority: high
+
+  - name: "Canada - AIDA & AI Strategy"
+    url: "https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act"
+    type: web_scrape
+    keywords: ["AIDA", "regulation", "governance", "responsible", "framework"]
+    priority: high
+
+  - name: "China - CAC AI Regulations"
+    url: "http://www.cac.gov.cn/"
+    type: web_scrape
+    keywords: ["artificial intelligence", "algorithm", "generative", "regulation", "governance"]
+    priority: medium
+
+  - name: "Singapore - AI Governance"
+    url: "https://www.imda.gov.sg/how-we-can-help/model-ai-governance-framework"
+    type: web_scrape
+    keywords: ["governance", "framework", "model", "responsible"]
+    priority: medium
+
+  - name: "Japan - AI Strategy"
+    url: "https://www.cas.go.jp/jp/seisaku/ai/en/"
+    type: web_scrape
+    keywords: ["governance", "strategy", "Hiroshima", "G7", "guidelines"]
+    priority: medium
+
+# --- STANDARDS BODIES ---
+standards:
+  - name: "ISO - AI Standards (SC 42)"
+    url: "https://www.iso.org/committee/6794475.html"
+    type: web_scrape
+    keywords: ["standard", "ISO 42001", "management system", "trustworthiness"]
+    priority: medium
+
+  - name: "IEEE - AI Ethics Standards"
+    url: "https://ethicsinaction.ieee.org/"
+    type: web_scrape
+    keywords: ["standard", "ethics", "autonomous", "governance"]
+    priority: medium
+
+  - name: "NIST AI Risk Management Framework"
+    url: "https://www.nist.gov/itl/ai-risk-management-framework"
+    type: web_scrape
+    keywords: ["risk", "framework", "trustworthy", "governance", "profile"]
+    priority: high
+
+# --- THINK TANKS & RESEARCH ---
+think_tanks:
+  - name: "Brookings - AI Governance"
+    url: "https://www.brookings.edu/topic/artificial-intelligence/"
+    type: web_scrape
+    keywords: ["governance", "regulation", "policy", "global", "multilateral"]
+    priority: medium
+
+  - name: "Carnegie Endowment - AI & Technology"
+    url: "https://carnegieendowment.org/topic/technology-amp-innovation"
+    type: web_scrape
+    keywords: ["AI", "governance", "global", "regulation", "geopolitics"]
+    priority: medium
+
+  - name: "Center for AI Governance"
+    url: "https://www.governance.ai/"
+    type: web_scrape
+    keywords: ["governance", "policy", "frontier", "international", "compute"]
+    priority: high
+
+  - name: "AI Now Institute"
+    url: "https://ainowinstitute.org/"
+    type: web_scrape
+    keywords: ["regulation", "accountability", "rights", "governance", "power"]
+    priority: high
+
+  - name: "Center for AI Safety"
+    url: "https://www.safe.ai/"
+    type: web_scrape
+    keywords: ["safety", "risk", "existential", "governance"]
+    priority: medium
+
+  - name: "Partnership on AI"
+    url: "https://partnershiponai.org/"
+    type: web_scrape
+    keywords: ["responsible", "governance", "practice", "guideline"]
+    priority: medium
+
+  - name: "Future of Life Institute"
+    url: "https://futureoflife.org/"
+    type: web_scrape
+    keywords: ["governance", "treaty", "risk", "regulation", "existential"]
+    priority: medium
+
+  - name: "Ada Lovelace Institute"
+    url: "https://www.adalovelaceinstitute.org/"
+    type: web_scrape
+    keywords: ["governance", "regulation", "rights", "public interest", "policy"]
+    priority: high
+
+  - name: "CIGI (Centre for International Governance Innovation)"
+    url: "https://www.cigionline.org/topics/artificial-intelligence/"
+    type: web_scrape
+    keywords: ["governance", "international", "multilateral", "regulation"]
+    priority: high
+
+  - name: "Stanford HAI"
+    url: "https://hai.stanford.edu/"
+    type: web_scrape
+    keywords: ["governance", "policy", "regulation", "index", "report"]
+    priority: medium
+
+  - name: "Oxford Future of Humanity Institute"
+    url: "https://www.fhi.ox.ac.uk/"
+    type: web_scrape
+    keywords: ["governance", "existential", "risk", "AI", "policy"]
+    priority: medium
+
+  - name: "IRPP - AI & Society"
+    url: "https://irpp.org/"
+    type: rss
+    rss_url: "https://irpp.org/feed/"
+    keywords: ["artificial intelligence", "AI", "governance", "regulation"]
+    priority: medium
+
+# --- CANADA AI GOVERNANCE ---
+canada_ai:
+  - name: "ISED - AI and Data Act (AIDA)"
+    url: "https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act"
+    type: web_scrape
+    keywords: ["AIDA", "artificial intelligence", "data act", "regulation", "responsible"]
+    priority: high
+
+  - name: "Canada AI Safety Institute"
+    url: "https://ised-isde.canada.ca/site/ai-safety-institute/en"
+    type: web_scrape
+    keywords: ["safety", "institute", "evaluation", "frontier", "testing"]
+    priority: high
+
+  - name: "Treasury Board - Directive on Automated Decision-Making"
+    url: "https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32592"
+    type: web_scrape
+    keywords: ["automated decision", "algorithmic", "impact assessment", "directive"]
+    priority: high
+
+  - name: "Office of the Privacy Commissioner - AI"
+    url: "https://www.priv.gc.ca/en/"
+    type: web_scrape
+    keywords: ["artificial intelligence", "AI", "privacy", "automated", "algorithmic"]
+    priority: high
+
+  - name: "CIFAR - Pan-Canadian AI Strategy"
+    url: "https://cifar.ca/ai/"
+    type: web_scrape
+    keywords: ["strategy", "responsible", "governance", "talent", "compute"]
+    priority: high
+
+  - name: "House of Commons - INDU Committee (Industry & Technology)"
+    url: "https://www.ourcommons.ca/Committees/en/INDU"
+    type: web_scrape
+    keywords: ["artificial intelligence", "AI", "AIDA", "technology", "data"]
+    priority: high
+
+  - name: "Senate - BANC Committee (Banking, Commerce & Economy)"
+    url: "https://sencanada.ca/en/committees/banc/"
+    type: web_scrape
+    keywords: ["artificial intelligence", "AI", "technology", "innovation", "data"]
+    priority: medium
+
+  - name: "Global Affairs Canada - AI Diplomacy"
+    url: "https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/human_rights-droits_homme/digital-numerique.aspx"
+    type: web_scrape
+    keywords: ["artificial intelligence", "AI", "digital", "governance", "multilateral"]
+    priority: medium
+
+  - name: "IRPP - AI Policy"
+    url: "https://irpp.org/"
+    type: rss
+    rss_url: "https://irpp.org/feed/"
+    keywords: ["artificial intelligence", "AI", "governance", "regulation", "AIDA"]
+    priority: medium
+
+  - name: "CIGI - AI & Digital Governance"
+    url: "https://www.cigionline.org/topics/artificial-intelligence/"
+    type: web_scrape
+    keywords: ["AI", "governance", "Canada", "regulation", "digital"]
+    priority: high
+
+  - name: "C.D. Howe - AI Policy"
+    url: "https://www.cdhowe.org/"
+    type: rss
+    rss_url: "https://www.cdhowe.org/rss.xml"
+    keywords: ["artificial intelligence", "AI", "regulation", "innovation", "data"]
+    priority: medium
+
+  - name: "Mila - Quebec AI Institute"
+    url: "https://mila.quebec/en/"
+    type: web_scrape
+    keywords: ["responsible", "governance", "policy", "AI act", "societal"]
+    priority: medium
+
+  - name: "Vector Institute"
+    url: "https://vectorinstitute.ai/"
+    type: web_scrape
+    keywords: ["responsible", "governance", "trustworthy", "policy"]
+    priority: medium
+
+  - name: "Amii (Alberta Machine Intelligence Institute)"
+    url: "https://www.amii.ca/"
+    type: web_scrape
+    keywords: ["responsible", "governance", "policy", "ethics"]
+    priority: medium
+
+  - name: "Montreal AI Ethics Institute"
+    url: "https://montrealethics.ai/"
+    type: web_scrape
+    keywords: ["ethics", "governance", "responsible", "policy", "regulation"]
+    priority: medium
+
+# --- BANGLADESH AI & DIGITAL GOVERNANCE ---
+bangladesh_ai:
+  - name: "Bangladesh ICT Division"
+    url: "https://ictd.gov.bd/"
+    type: web_scrape
+    keywords: ["artificial intelligence", "AI", "digital", "strategy", "smart"]
+    priority: high
+
+  - name: "Bangladesh National AI Strategy"
+    url: "https://ictd.gov.bd/"
+    type: web_scrape
+    keywords: ["AI strategy", "national", "artificial intelligence", "fourth industrial"]
+    priority: high
+
+  - name: "a2i (Aspire to Innovate) Programme"
+    url: "https://a2i.gov.bd/"
+    type: web_scrape
+    keywords: ["AI", "digital", "innovation", "smart", "governance", "service"]
+    priority: high
+
+  - name: "Bangladesh Computer Council"
+    url: "https://bcc.gov.bd/"
+    type: web_scrape
+    keywords: ["AI", "artificial intelligence", "digital", "technology", "capacity"]
+    priority: medium
+
+  - name: "BTRC (Bangladesh Telecom Regulatory Commission)"
+    url: "http://www.btrc.gov.bd/"
+    type: web_scrape
+    keywords: ["AI", "digital", "regulation", "technology", "data"]
+    priority: medium
+
+  - name: "Bangladesh Hi-Tech Park Authority"
+    url: "https://www.bhtpa.gov.bd/"
+    type: web_scrape
+    keywords: ["AI", "artificial intelligence", "innovation", "startup", "technology"]
+    priority: medium
+
+  - name: "CPD (Centre for Policy Dialogue) Bangladesh"
+    url: "https://cpd.org.bd/"
+    type: web_scrape
+    keywords: ["artificial intelligence", "AI", "digital", "governance", "fourth industrial"]
+    priority: medium
+
+  - name: "BRAC Institute of Governance & Development"
+    url: "https://bigd.bracu.ac.bd/"
+    type: web_scrape
+    keywords: ["AI", "digital", "governance", "technology", "data"]
+    priority: medium
+
+  - name: "Bangladesh Data Protection & Digital Security"
+    url: "https://ictd.gov.bd/"
+    type: web_scrape
+    keywords: ["data protection", "digital security", "privacy", "regulation"]
+    priority: medium
+
+  - name: "Daily Star - Tech & Digital"
+    url: "https://www.thedailystar.net/tech-startup"
+    type: web_scrape
+    keywords: ["artificial intelligence", "AI", "digital Bangladesh", "regulation", "governance"]
+    priority: medium
+
+  - name: "Dhaka Tribune - Technology"
+    url: "https://www.dhakatribune.com/technology"
+    type: web_scrape
+    keywords: ["artificial intelligence", "AI", "digital", "governance", "regulation"]
+    priority: medium
+
+  - name: "UNESCO Dhaka Office"
+    url: "https://www.unesco.org/en/fieldoffice/dhaka"
+    type: web_scrape
+    keywords: ["AI", "artificial intelligence", "digital", "education", "technology"]
+    priority: medium
+
+  - name: "World Bank - Bangladesh Digital"
+    url: "https://www.worldbank.org/en/country/bangladesh"
+    type: web_scrape
+    keywords: ["digital", "AI", "artificial intelligence", "technology", "governance"]
+    priority: medium
+
+  - name: "ADB - Bangladesh Technology"
+    url: "https://www.adb.org/countries/bangladesh/main"
+    type: web_scrape
+    keywords: ["digital", "AI", "artificial intelligence", "technology", "innovation"]
+    priority: medium
+
+# --- CIVIL SOCIETY & ADVOCACY ---
+civil_society:
+  - name: "Access Now"
+    url: "https://www.accessnow.org/"
+    type: web_scrape
+    keywords: ["AI", "artificial intelligence", "governance", "rights", "ban", "regulation"]
+    priority: medium
+
+  - name: "Algorithm Watch"
+    url: "https://algorithmwatch.org/en/"
+    type: web_scrape
+    keywords: ["governance", "regulation", "accountability", "transparency", "audit"]
+    priority: medium
+
+  - name: "Mozilla Foundation - AI"
+    url: "https://foundation.mozilla.org/en/internet-health/trustworthy-artificial-intelligence/"
+    type: web_scrape
+    keywords: ["trustworthy", "governance", "openness", "regulation"]
+    priority: medium
+
+# --- INDUSTRY ---
+industry:
+  - name: "Anthropic Blog"
+    url: "https://www.anthropic.com/news"
+    type: web_scrape
+    keywords: ["safety", "governance", "policy", "responsible", "RSP"]
+    priority: medium
+
+  - name: "OpenAI Blog"
+    url: "https://openai.com/blog"
+    type: web_scrape
+    keywords: ["safety", "governance", "policy", "alignment", "regulation"]
+    priority: medium
+
+  - name: "Google DeepMind Blog"
+    url: "https://deepmind.google/discover/blog/"
+    type: web_scrape
+    keywords: ["safety", "governance", "responsible", "ethics", "policy"]
+    priority: medium
+
+  - name: "Microsoft AI Policy"
+    url: "https://blogs.microsoft.com/on-the-issues/"
+    type: web_scrape
+    keywords: ["AI", "governance", "regulation", "responsible", "policy"]
+    priority: medium
+
+  - name: "Meta AI Blog"
+    url: "https://ai.meta.com/blog/"
+    type: web_scrape
+    keywords: ["open source", "governance", "responsible", "policy", "safety"]
+    priority: medium
+
+# --- ACADEMIC & JOURNALS ---
+academic:
+  - name: "Nature - AI Policy"
+    url: "https://www.nature.com/natmachintell/"
+    type: web_scrape
+    keywords: ["governance", "regulation", "policy", "ethics", "society"]
+    priority: medium
+
+  - name: "Science - AI Policy"
+    url: "https://www.science.org/topic/category/technology"
+    type: web_scrape
+    keywords: ["artificial intelligence", "governance", "regulation", "policy"]
+    priority: medium
+
+  - name: "arXiv - AI Governance papers"
+    url: "https://arxiv.org/list/cs.CY/recent"
+    type: web_scrape
+    keywords: ["governance", "regulation", "policy", "safety", "alignment", "ethics"]
+    priority: medium
+
+  - name: "SSRN - AI Law & Policy"
+    url: "https://www.ssrn.com/index.cfm/en/"
+    type: web_scrape
+    keywords: ["AI governance", "artificial intelligence regulation", "AI policy"]
+    priority: low
+
+# --- MEDIA ---
+media:
+  - name: "Politico - AI"
+    url: "https://www.politico.com/artificial-intelligence"
+    type: web_scrape
+    keywords: ["governance", "regulation", "policy", "law", "multilateral"]
+    priority: medium
+
+  - name: "Reuters - AI"
+    url: "https://www.reuters.com/technology/artificial-intelligence/"
+    type: web_scrape
+    keywords: ["governance", "regulation", "policy", "ban", "law", "treaty"]
+    priority: medium
+
+  - name: "MIT Technology Review - AI Policy"
+    url: "https://www.technologyreview.com/topic/artificial-intelligence/"
+    type: web_scrape
+    keywords: ["governance", "regulation", "policy", "law", "ethics"]
+    priority: medium
+
+  - name: "The AI Index (Stanford)"
+    url: "https://aiindex.stanford.edu/"
+    type: web_scrape
+    keywords: ["index", "report", "policy", "governance", "legislation"]
+    priority: medium
