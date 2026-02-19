@@ -1,0 +1,675 @@
+{
+  "date": "2026-02-19",
+  "sections": {
+    "multilateral": [
+      {
+        "title": "OECD AI PrinciplesThe first IGO standard to promote innovative and trustworthy AI",
+        "url": "https://oecd.ai/en/ai-principles",
+        "source_name": "OECD AI Policy Observatory",
+        "source_category": "international_orgs",
+        "published": null,
+        "snippet": "OECD AI PrinciplesThe first IGO standard to promote innovative and trustworthy AI",
+        "relevance_score": 9.5,
+        "keywords_matched": [
+          "OECD AI principles",
+          "trustworthy AI",
+          "AI",
+          "OECD",
+          "standard",
+          "principles"
+        ],
+        "digest_section": "multilateral",
+        "item_hash": "2fec255d273590934d322afbb9740adc"
+      },
+      {
+        "title": "UN Secretary-General launches AI Advisory Body on risks, opportunities, and international governance of artificial intelligence",
+        "url": "https://www.un.org/sites/un2.un.org/files/231025_press-release-aiab.pdf",
+        "source_name": "UN Secretary-General - AI Advisory Body",
+        "source_category": "international_orgs",
+        "published": null,
+        "snippet": "UN Secretary-General launches AI Advisory Body on risks, opportunities, and international governance of artificial intelligence",
+        "relevance_score": 9.0,
+        "keywords_matched": [
+          "AI advisory body",
+          "artificial intelligence",
+          "AI",
+          "governance",
+          "advisory"
+        ],
+        "digest_section": "multilateral",
+        "item_hash": "edc5bf41d4db2985f327644234e901e5"
+      },
+      {
+        "title": "Responsible AIThe responsible development, use and governance of human-centred AI systems",
+        "url": "https://gpai.ai/en/working-group-responsible-ai",
+        "source_name": "Global Partnership on AI (GPAI)",
+        "source_category": "international_orgs",
+        "published": null,
+        "snippet": "Responsible AIThe responsible development, use and governance of human-centred AI systems",
+        "relevance_score": 8.0,
+        "keywords_matched": [
+          "responsible AI",
+          "AI",
+          "governance",
+          "responsible"
+        ],
+        "digest_section": "multilateral",
+        "item_hash": "3b8166e6817c696bf09bb28c16ddbdda"
+      },
+      {
+        "title": "Secretary-General's Statement at the UK AI Safety Summit",
+        "url": "https://www.un.org/sg/en/content/sg/statement/2023-11-02/secretary-generals-statement-the-uk-ai-safety-summit",
+        "source_name": "UN Secretary-General - AI Advisory Body",
+        "source_category": "international_orgs",
+        "published": null,
+        "snippet": "Secretary-General's Statement at the UK AI Safety Summit",
+        "relevance_score": 7.0,
+        "keywords_matched": [
+          "AI safety summit",
+          "AI safety",
+          "AI",
+          "summit"
+        ],
+        "digest_section": "multilateral",
+        "item_hash": "ab25a916a3b67c2cc8abeb0529f81a44"
+      },
+      {
+        "title": "VideosWatch videos about AI policy the issues that matter most.",
+        "url": "https://oecd.ai/en/videos",
+        "source_name": "OECD AI Policy Observatory",
+        "source_category": "international_orgs",
+        "published": null,
+        "snippet": "VideosWatch videos about AI policy the issues that matter most.",
+        "relevance_score": 5.5,
+        "keywords_matched": [
+          "AI policy",
+          "AI",
+          "policy"
+        ],
+        "digest_section": "multilateral",
+        "item_hash": "f91ff64a048b579088b18de4a7d69ec9"
+      }
+    ],
+    "regulation": [
+      {
+        "title": "The AI Act is the first-ever legal framework on AI, which addresses the risks of AI and positions Europe to play a leading role globally.TheAI Act(Regulation (EU) 2024/1689 laying down harmonised rule",
+        "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+        "source_name": "EU AI Act - European Commission",
+        "source_category": "national_government",
+        "published": null,
+        "snippet": "The AI Act is the first-ever legal framework on AI, which addresses the risks of AI and positions Europe to play a leading role globally.TheAI Act(Regulation (EU) 2024/1689 laying down harmonised rule",
+        "relevance_score": 6.0,
+        "keywords_matched": [
+          "AI",
+          "regulation",
+          "framework",
+          "AI act"
+        ],
+        "digest_section": "regulation",
+        "item_hash": "e5967e1732c34db851d4156ae27bcc13"
+      },
+      {
+        "title": "Governance and enforcement of the AI ActThe European AI Office and the national market surveillance authorities are responsible for...",
+        "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+        "source_name": "EU AI Act - European Commission",
+        "source_category": "national_government",
+        "published": null,
+        "snippet": "Governance and enforcement of the AI ActThe European AI Office and the national market surveillance authorities are responsible for...",
+        "relevance_score": 5.0,
+        "keywords_matched": [
+          "AI",
+          "governance",
+          "AI act",
+          "enforcement"
+        ],
+        "digest_section": "regulation",
+        "item_hash": "2ebfacb5e61905675ff2ec6d3227015f"
+      },
+      {
+        "title": "EU international engagement on Artificial IntelligenceThe AI Office leads the EU\u2019s international engagement on AI \u2013 from promoting safe and trustworthy AI...",
+        "url": "https://digital-strategy.ec.europa.eu/en/policies/ai-office",
+        "source_name": "European AI Office",
+        "source_category": "national_government",
+        "published": null,
+        "snippet": "EU international engagement on Artificial IntelligenceThe AI Office leads the EU\u2019s international engagement on AI \u2013 from promoting safe and trustworthy AI...",
+        "relevance_score": 4.0,
+        "keywords_matched": [
+          "trustworthy AI",
+          "artificial intelligence",
+          "AI"
+        ],
+        "digest_section": "regulation",
+        "item_hash": "1d8ec52fc9ce77b7c4d041a24c80dbd7"
+      },
+      {
+        "title": "DIGIBYTE|19 January 2026EuroHPC Regulation amended to strengthen Europe\u2019s AI and quantum capabilities",
+        "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+        "source_name": "EU AI Act - European Commission",
+        "source_category": "national_government",
+        "published": null,
+        "snippet": "DIGIBYTE|19 January 2026EuroHPC Regulation amended to strengthen Europe\u2019s AI and quantum capabilities",
+        "relevance_score": 3.5,
+        "keywords_matched": [
+          "AI",
+          "regulation"
+        ],
+        "digest_section": "regulation",
+        "item_hash": "f377851e14e752d8bd58c1b064c3dbde"
+      },
+      {
+        "title": "Standardisation of the AI ActHarmonised standards will offer legal certainty under the AI Act, support innovation, and position...",
+        "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+        "source_name": "EU AI Act - European Commission",
+        "source_category": "national_government",
+        "published": null,
+        "snippet": "Standardisation of the AI ActHarmonised standards will offer legal certainty under the AI Act, support innovation, and position...",
+        "relevance_score": 3.5,
+        "keywords_matched": [
+          "AI",
+          "standard",
+          "AI act"
+        ],
+        "digest_section": "regulation",
+        "item_hash": "7a153bfb4914479764b66d53c0867206"
+      }
+    ],
+    "canada": [
+      {
+        "title": "AI Policy Corner: AI Governance in East Asia: Comparing the AI Acts of South Korea and JapanJanuary 19, 2026\u270d\ufe0fBy Selen Dogan Kosterit. Selen is a PhD Student in Political Science and a Graduate Affili",
+        "url": "https://montrealethics.ai/",
+        "source_name": "Montreal AI Ethics Institute",
+        "source_category": "canada_ai",
+        "published": null,
+        "snippet": "AI Policy Corner: AI Governance in East Asia: Comparing the AI Acts of South Korea and JapanJanuary 19, 2026\u270d\ufe0fBy Selen Dogan Kosterit. Selen is a PhD Student in Political Science and a Graduate Affili",
+        "relevance_score": 11.0,
+        "keywords_matched": [
+          "AI governance",
+          "AI policy",
+          "AI",
+          "governance",
+          "policy"
+        ],
+        "digest_section": "canada",
+        "item_hash": "1e1ae706fde9a0b8c03b3eee60603cff"
+      },
+      {
+        "title": "The AI Ethics Brief #178: How AI Regulation Can Both Harm and Foster Social Justice",
+        "url": "https://montrealethics.ai/",
+        "source_name": "Montreal AI Ethics Institute",
+        "source_category": "canada_ai",
+        "published": null,
+        "snippet": "The AI Ethics Brief #178: How AI Regulation Can Both Harm and Foster Social Justice",
+        "relevance_score": 10.0,
+        "keywords_matched": [
+          "AI regulation",
+          "AI ethics",
+          "AI",
+          "regulation",
+          "ethics"
+        ],
+        "digest_section": "canada",
+        "item_hash": "d2933b8e8fbeb923ca8c7e500a4431f4"
+      },
+      {
+        "title": "AI Governance, Policy and Inclusion",
+        "url": "https://mila.quebec/en/ai4humanity/ai-governance-policy-and-inclusion",
+        "source_name": "Mila - Quebec AI Institute",
+        "source_category": "canada_ai",
+        "published": null,
+        "snippet": "AI Governance, Policy and Inclusion",
+        "relevance_score": 9.0,
+        "keywords_matched": [
+          "AI governance",
+          "AI",
+          "governance",
+          "policy"
+        ],
+        "digest_section": "canada",
+        "item_hash": "b0ed1170752340f7a3205c32037b0b31"
+      },
+      {
+        "title": "Mapping the Responsible AI Profession, A Field in Formation (techUK)April 28, 2025\ud83d\udd2c Report Summary by \u270d\ufe0f Tess Buckley Tess is Programme Manager, Digital Ethics and AI Safety at techUK and holds a Mast",
+        "url": "https://montrealethics.ai/",
+        "source_name": "Montreal AI Ethics Institute",
+        "source_category": "canada_ai",
+        "published": null,
+        "snippet": "Mapping the Responsible AI Profession, A Field in Formation (techUK)April 28, 2025\ud83d\udd2c Report Summary by \u270d\ufe0f Tess Buckley Tess is Programme Manager, Digital Ethics and AI Safety at techUK and holds a Mast",
+        "relevance_score": 9.0,
+        "keywords_matched": [
+          "responsible AI",
+          "AI safety",
+          "AI",
+          "ethics",
+          "responsible"
+        ],
+        "digest_section": "canada",
+        "item_hash": "5478f5100189d7b152beb88d30f8522a"
+      },
+      {
+        "title": "AI Policy Corner: Reviewing Ukraine\u2019s Whitepaper on Artificial Intelligence Regulation",
+        "url": "https://montrealethics.ai/",
+        "source_name": "Montreal AI Ethics Institute",
+        "source_category": "canada_ai",
+        "published": null,
+        "snippet": "AI Policy Corner: Reviewing Ukraine\u2019s Whitepaper on Artificial Intelligence Regulation",
+        "relevance_score": 9.0,
+        "keywords_matched": [
+          "AI policy",
+          "artificial intelligence",
+          "AI",
+          "regulation",
+          "policy"
+        ],
+        "digest_section": "canada",
+        "item_hash": "ff9d703dcc80b14697a54ea5c70a0174"
+      }
+    ],
+    "bangladesh": [
+      {
+        "title": "Governance",
+        "url": "https://www.thedailystar.net/news/governance",
+        "source_name": "Daily Star - Tech & Digital",
+        "source_category": "bangladesh_ai",
+        "published": null,
+        "snippet": "Governance",
+        "relevance_score": 2.5,
+        "keywords_matched": [
+          "governance"
+        ],
+        "digest_section": "bangladesh",
+        "item_hash": "04b9e2589563658da25b2c6878c2deb0"
+      },
+      {
+        "title": "Entertainment",
+        "url": "https://www.thedailystar.net/entertainment",
+        "source_name": "Daily Star - Tech & Digital",
+        "source_category": "bangladesh_ai",
+        "published": null,
+        "snippet": "Entertainment",
+        "relevance_score": 2.5,
+        "keywords_matched": [
+          "AI"
+        ],
+        "digest_section": "bangladesh",
+        "item_hash": "dba287e572f37cf87867873dbe206d8a"
+      },
+      {
+        "title": "https://delivery-p136806-e1377785.adobeaemcloud.com/adobe/assets/urn:aaid:aem:93aff4d6-27c1-40d9-aea3-e370336a0d94/original/as/An Unsustainable Life.png",
+        "url": "https://delivery-p136806-e1377785.adobeaemcloud.com/adobe/assets/urn:aaid:aem:93aff4d6-27c1-40d9-aea3-e370336a0d94/original/as/An%20Unsustainable%20Life.png",
+        "source_name": "World Bank - Bangladesh Digital",
+        "source_category": "bangladesh_ai",
+        "published": null,
+        "snippet": "https://delivery-p136806-e1377785.adobeaemcloud.com/adobe/assets/urn:aaid:aem:93aff4d6-27c1-40d9-aea3-e370336a0d94/original/as/An Unsustainable Life.png",
+        "relevance_score": 2.5,
+        "keywords_matched": [
+          "AI"
+        ],
+        "digest_section": "bangladesh",
+        "item_hash": "29f34c3c5fc28b73d4da47367bbbaf19"
+      },
+      {
+        "title": "https://delivery-p136806-e1377785.adobeaemcloud.com/adobe/assets/urn:aaid:aem:cf90f3a4-60db-46ad-b868-85f613656055/original/as/Jobs_DPC1.jpg",
+        "url": "https://delivery-p136806-e1377785.adobeaemcloud.com/adobe/assets/urn:aaid:aem:cf90f3a4-60db-46ad-b868-85f613656055/original/as/Jobs_DPC1.jpg",
+        "source_name": "World Bank - Bangladesh Digital",
+        "source_category": "bangladesh_ai",
+        "published": null,
+        "snippet": "https://delivery-p136806-e1377785.adobeaemcloud.com/adobe/assets/urn:aaid:aem:cf90f3a4-60db-46ad-b868-85f613656055/original/as/Jobs_DPC1.jpg",
+        "relevance_score": 2.5,
+        "keywords_matched": [
+          "AI"
+        ],
+        "digest_section": "bangladesh",
+        "item_hash": "e4a60009c54386f33b5cbec85ab326a2"
+      },
+      {
+        "title": "https://www.worldbank.org/en/news/press-release/2025/10/07/strong-and-timely-reforms-needed-to-sustain-inclusive-growth-in-bangladesh",
+        "url": "https://www.worldbank.org/en/news/press-release/2025/10/07/strong-and-timely-reforms-needed-to-sustain-inclusive-growth-in-bangladesh",
+        "source_name": "World Bank - Bangladesh Digital",
+        "source_category": "bangladesh_ai",
+        "published": null,
+        "snippet": "https://www.worldbank.org/en/news/press-release/2025/10/07/strong-and-timely-reforms-needed-to-sustain-inclusive-growth-in-bangladesh",
+        "relevance_score": 2.5,
+        "keywords_matched": [
+          "AI"
+        ],
+        "digest_section": "bangladesh",
+        "item_hash": "8db7520266bef389c75516d153d03120"
+      }
+    ],
+    "safety": [
+      {
+        "title": "Jun 20, 2025|Teresa Hutson, CVP, Trusted Technology Group and Natasha Crampton, Chief Responsible AI Officer.Our 2025 Responsible AI Transparency Report: How we build, support our customers, and grow",
+        "url": "https://blogs.microsoft.com/on-the-issues/",
+        "source_name": "Microsoft AI Policy",
+        "source_category": "industry",
+        "published": null,
+        "snippet": "Jun 20, 2025|Teresa Hutson, CVP, Trusted Technology Group and Natasha Crampton, Chief Responsible AI Officer.Our 2025 Responsible AI Transparency Report: How we build, support our customers, and grow",
+        "relevance_score": 9.0,
+        "keywords_matched": [
+          "responsible AI",
+          "AI transparency",
+          "AI",
+          "responsible"
+        ],
+        "digest_section": "safety",
+        "item_hash": "1008f3eb8fc57ac4f72f00390bf3f301"
+      },
+      {
+        "title": "Read the Frontier AI Trends Report",
+        "url": "https://www.aisi.gov.uk/frontier-ai-trends-report",
+        "source_name": "UK AI Safety Institute",
+        "source_category": "national_government",
+        "published": null,
+        "snippet": "Read the Frontier AI Trends Report",
+        "relevance_score": 7.0,
+        "keywords_matched": [
+          "frontier AI",
+          "AI",
+          "frontier",
+          "report"
+        ],
+        "digest_section": "safety",
+        "item_hash": "ed3139564fcf489f43226e0733115ce9"
+      },
+      {
+        "title": "AISI's first Frontier AI\u00a0Trends Report",
+        "url": "https://www.aisi.gov.uk/frontier-ai-trends-report",
+        "source_name": "UK AI Safety Institute",
+        "source_category": "national_government",
+        "published": null,
+        "snippet": "AISI's first Frontier AI\u00a0Trends Report",
+        "relevance_score": 7.0,
+        "keywords_matched": [
+          "frontier AI",
+          "AI",
+          "frontier",
+          "report"
+        ],
+        "digest_section": "safety",
+        "item_hash": "b76cadec70277ca916734434fe704d42"
+      },
+      {
+        "title": "Feb 17, 2026|Brad Smith, Vice Chair and President of Microsoft and Natasha Crampton, Vice President and Chief Responsible AI Officer of MicrosoftWe need to act with urgency to address the growing AI d",
+        "url": "https://blogs.microsoft.com/on-the-issues/",
+        "source_name": "Microsoft AI Policy",
+        "source_category": "industry",
+        "published": null,
+        "snippet": "Feb 17, 2026|Brad Smith, Vice Chair and President of Microsoft and Natasha Crampton, Vice President and Chief Responsible AI Officer of MicrosoftWe need to act with urgency to address the growing AI d",
+        "relevance_score": 7.0,
+        "keywords_matched": [
+          "responsible AI",
+          "AI",
+          "responsible"
+        ],
+        "digest_section": "safety",
+        "item_hash": "b5f38b78627033124e7cc2b4ccd16e14"
+      },
+      {
+        "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behaviorDecember 2025Responsibility & SafetyLearn more",
+        "url": "https://deepmind.google/discover/blog/",
+        "source_name": "Google DeepMind Blog",
+        "source_category": "industry",
+        "published": null,
+        "snippet": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behaviorDecember 2025Responsibility & SafetyLearn more",
+        "relevance_score": 4.5,
+        "keywords_matched": [
+          "AI safety",
+          "AI",
+          "safety"
+        ],
+        "digest_section": "safety",
+        "item_hash": "be8e0d582b91c5b5d18ec82891f07129"
+      }
+    ],
+    "rights_ethics": [
+      {
+        "title": "Trustworthy Artificial Intelligence",
+        "url": "https://www.mozillafoundation.org/en/internet-health/trustworthy-artificial-intelligence/",
+        "source_name": "Mozilla Foundation - AI",
+        "source_category": "civil_society",
+        "published": null,
+        "snippet": "Trustworthy Artificial Intelligence",
+        "relevance_score": 2.5,
+        "keywords_matched": [
+          "artificial intelligence",
+          "trustworthy"
+        ],
+        "digest_section": "rights_ethics",
+        "item_hash": "368051b604b5e981525fe102f2939da4"
+      },
+      {
+        "title": "March 4, 2024Taking (Policy) Action to Enhance the Sustainability of AI Systems",
+        "url": "https://algorithmwatch.org/en/",
+        "source_name": "Algorithm Watch",
+        "source_category": "civil_society",
+        "published": null,
+        "snippet": "March 4, 2024Taking (Policy) Action to Enhance the Sustainability of AI Systems",
+        "relevance_score": 2.0,
+        "keywords_matched": [
+          "AI",
+          "policy"
+        ],
+        "digest_section": "rights_ethics",
+        "item_hash": "0e8c7aaaffe74db5e5acbef405c6efbd"
+      },
+      {
+        "title": "Access NowDigital rightsfor everyone.Derechos digitalespara todas..\u0627\u0644\u062d\u0642\u0648\u0642 \u0627\u0644\u0631\u0642\u0645\u064a\u0629 \u0644\u0644\u062c\u0645\u064a\u0639Droits num\u00e9riquespour tous.Access Now defends and extends the digital rights of people and communities at risk.B",
+        "url": "https://www.accessnow.org/",
+        "source_name": "Access Now",
+        "source_category": "civil_society",
+        "published": null,
+        "snippet": "Access NowDigital rightsfor everyone.Derechos digitalespara todas..\u0627\u0644\u062d\u0642\u0648\u0642 \u0627\u0644\u0631\u0642\u0645\u064a\u0629 \u0644\u0644\u062c\u0645\u064a\u0639Droits num\u00e9riquespour tous.Access Now defends and extends the digital rights of people and communities at risk.B",
+        "relevance_score": 1.5,
+        "keywords_matched": [
+          "rights"
+        ],
+        "digest_section": "rights_ethics",
+        "item_hash": "345623a2361bba0dbfe4609defb5e0cf"
+      },
+      {
+        "title": "Risks and Dangers Coming With AI",
+        "url": "https://algorithmwatch.org/en/",
+        "source_name": "Algorithm Watch",
+        "source_category": "civil_society",
+        "published": null,
+        "snippet": "Risks and Dangers Coming With AI",
+        "relevance_score": 1.0,
+        "keywords_matched": [
+          "AI"
+        ],
+        "digest_section": "rights_ethics",
+        "item_hash": "8e00055de432ce2ed4612a49edfcae0a"
+      },
+      {
+        "title": "Resource consumption of AI: The insatiable industry and its costs",
+        "url": "https://algorithmwatch.org/en/",
+        "source_name": "Algorithm Watch",
+        "source_category": "civil_society",
+        "published": null,
+        "snippet": "Resource consumption of AI: The insatiable industry and its costs",
+        "relevance_score": 1.0,
+        "keywords_matched": [
+          "AI"
+        ],
+        "digest_section": "rights_ethics",
+        "item_hash": "a03b9f34936815bdb7ce11f401d5d496"
+      }
+    ],
+    "standards": [
+      {
+        "title": "NIST Seeks Comments on Draft AI Risk Management Framework, Offers Guidance on AI BiasMarch 17, 2022Seeking to promote the development and use of artificial intelligence (AI) technologies and systems t",
+        "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+        "source_name": "NIST AI Risk Management Framework",
+        "source_category": "standards",
+        "published": null,
+        "snippet": "NIST Seeks Comments on Draft AI Risk Management Framework, Offers Guidance on AI BiasMarch 17, 2022Seeking to promote the development and use of artificial intelligence (AI) technologies and systems t",
+        "relevance_score": 10.0,
+        "keywords_matched": [
+          "AI risk management",
+          "AI bias",
+          "artificial intelligence",
+          "AI",
+          "framework",
+          "risk"
+        ],
+        "digest_section": "standards",
+        "item_hash": "212c9a7168c51c377966d4ef13c828a0"
+      },
+      {
+        "title": "NIST Seeks Comments on AI Risk Management Framework Guidance, Workshop Date SetAugust 18, 2022NIST is seeking comments on a second draft of the NIST Artificial Intelligence Risk Management Framework (",
+        "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+        "source_name": "NIST AI Risk Management Framework",
+        "source_category": "standards",
+        "published": null,
+        "snippet": "NIST Seeks Comments on AI Risk Management Framework Guidance, Workshop Date SetAugust 18, 2022NIST is seeking comments on a second draft of the NIST Artificial Intelligence Risk Management Framework (",
+        "relevance_score": 8.0,
+        "keywords_matched": [
+          "AI risk management",
+          "artificial intelligence",
+          "AI",
+          "framework",
+          "risk"
+        ],
+        "digest_section": "standards",
+        "item_hash": "9dc4c7d41fd07046d4316c9025d12921"
+      },
+      {
+        "title": "NIST Risk Management Framework Aims to Improve Trustworthiness of Artificial IntelligenceJanuary 26, 2023New guidance seeks to cultivate trust in AI technologies and promote AI innovation while mitiga",
+        "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+        "source_name": "NIST AI Risk Management Framework",
+        "source_category": "standards",
+        "published": null,
+        "snippet": "NIST Risk Management Framework Aims to Improve Trustworthiness of Artificial IntelligenceJanuary 26, 2023New guidance seeks to cultivate trust in AI technologies and promote AI innovation while mitiga",
+        "relevance_score": 6.0,
+        "keywords_matched": [
+          "artificial intelligence",
+          "AI",
+          "framework",
+          "risk"
+        ],
+        "digest_section": "standards",
+        "item_hash": "9b772d2206c50d50bb1babf88cb633c7"
+      },
+      {
+        "title": "OverviewNew technology comes with unknown obstacles and unintended risks requiring accountable design and lifecycle planning to ensure responsible innovation. As artificial intelligence, autonomous in",
+        "url": "https://ethicsinaction.ieee.org/",
+        "source_name": "IEEE - AI Ethics Standards",
+        "source_category": "standards",
+        "published": null,
+        "snippet": "OverviewNew technology comes with unknown obstacles and unintended risks requiring accountable design and lifecycle planning to ensure responsible innovation. As artificial intelligence, autonomous in",
+        "relevance_score": 2.5,
+        "keywords_matched": [
+          "artificial intelligence",
+          "autonomous"
+        ],
+        "digest_section": "standards",
+        "item_hash": "b22bfb4552b7a1f42593fa007a39abbf"
+      },
+      {
+        "title": "Symposium Focuses on AI and the Economy and the Path for Responsible and Inclusive AIApril 27, 2022The U.S. Department of Commerce, NIST, FinRegLab, and the Stanford Institute for Human-Centered Artif",
+        "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+        "source_name": "NIST AI Risk Management Framework",
+        "source_category": "standards",
+        "published": null,
+        "snippet": "Symposium Focuses on AI and the Economy and the Path for Responsible and Inclusive AIApril 27, 2022The U.S. Department of Commerce, NIST, FinRegLab, and the Stanford Institute for Human-Centered Artif",
+        "relevance_score": 2.0,
+        "keywords_matched": [
+          "AI",
+          "ITU"
+        ],
+        "digest_section": "standards",
+        "item_hash": "019335efcaa936e34abcdd8bbd8e50bc"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "Technical AI GovernanceTrends in Frontier AI Model Count: A Forecast to 2028Governments are starting to impose requirements on AI models based on how much compute was used to train them. For example, ",
+        "url": "https://www.governance.ai/research-paper/trends-in-frontier-ai-model-count-a-forecast-to-2028",
+        "source_name": "Center for AI Governance",
+        "source_category": "think_tanks",
+        "published": null,
+        "snippet": "Technical AI GovernanceTrends in Frontier AI Model Count: A Forecast to 2028Governments are starting to impose requirements on AI models based on how much compute was used to train them. For example, ",
+        "relevance_score": 12.5,
+        "keywords_matched": [
+          "AI governance",
+          "frontier AI",
+          "AI",
+          "governance",
+          "frontier",
+          "compute"
+        ],
+        "digest_section": "geopolitics",
+        "item_hash": "5c1813d0574835e0afe54a296ef01d52"
+      },
+      {
+        "title": "Policy BriefingThe regulation of delegationJulia SmakmanAre AI advisers, agents and companions regulated in the UK?1 December 2025AI agentsAI policy...AI regulationEmerging Technology & Industry Pract",
+        "url": "https://www.adalovelaceinstitute.org/",
+        "source_name": "Ada Lovelace Institute",
+        "source_category": "think_tanks",
+        "published": null,
+        "snippet": "Policy BriefingThe regulation of delegationJulia SmakmanAre AI advisers, agents and companions regulated in the UK?1 December 2025AI agentsAI policy...AI regulationEmerging Technology & Industry Pract",
+        "relevance_score": 11.0,
+        "keywords_matched": [
+          "AI regulation",
+          "AI policy",
+          "AI",
+          "regulation",
+          "policy"
+        ],
+        "digest_section": "geopolitics",
+        "item_hash": "7aaee9927b0c4c5441041c91a5ddcab9"
+      },
+      {
+        "title": "Policy BriefingGreat (public) expectationsNuala Polo,Roshni ModhvadiaNew polling shows the public expect AI to be governed with far more rigour than current policy delivers4 December 2025AI governance",
+        "url": "https://www.adalovelaceinstitute.org/",
+        "source_name": "Ada Lovelace Institute",
+        "source_category": "think_tanks",
+        "published": null,
+        "snippet": "Policy BriefingGreat (public) expectationsNuala Polo,Roshni ModhvadiaNew polling shows the public expect AI to be governed with far more rigour than current policy delivers4 December 2025AI governance",
+        "relevance_score": 9.0,
+        "keywords_matched": [
+          "AI governance",
+          "AI",
+          "governance",
+          "policy"
+        ],
+        "digest_section": "geopolitics",
+        "item_hash": "db0051ea340323afaa959fc1fc82474d"
+      },
+      {
+        "title": "BlogMaking regulatory sandboxes work for people and societyElsa DonnatHow can the UK AI Growth Lab contribute to governing AI in the public interest?29 January 2026Ada positionAI governance...AI regul",
+        "url": "https://www.adalovelaceinstitute.org/",
+        "source_name": "Ada Lovelace Institute",
+        "source_category": "think_tanks",
+        "published": null,
+        "snippet": "BlogMaking regulatory sandboxes work for people and societyElsa DonnatHow can the UK AI Growth Lab contribute to governing AI in the public interest?29 January 2026Ada positionAI governance...AI regul",
+        "relevance_score": 8.0,
+        "keywords_matched": [
+          "AI governance",
+          "AI",
+          "governance",
+          "public interest"
+        ],
+        "digest_section": "geopolitics",
+        "item_hash": "e3905052cbe20733bd0d93ee69b4d624"
+      },
+      {
+        "title": "EventThe UK\u2019s industrial approach to AI \u2013 what\u2019s next?Join the Ada Lovelace Institute as we make sense of the current AI policy landscape and debate the way forward for the UK's industrial approach to",
+        "url": "https://www.adalovelaceinstitute.org/",
+        "source_name": "Ada Lovelace Institute",
+        "source_category": "think_tanks",
+        "published": null,
+        "snippet": "EventThe UK\u2019s industrial approach to AI \u2013 what\u2019s next?Join the Ada Lovelace Institute as we make sense of the current AI policy landscape and debate the way forward for the UK's industrial approach to",
+        "relevance_score": 6.5,
+        "keywords_matched": [
+          "AI policy",
+          "AI",
+          "ITU",
+          "policy"
+        ],
+        "digest_section": "geopolitics",
+        "item_hash": "842ccad2e3e14cfbcd7e9f15ef9c558f"
+      }
+    ]
+  }
+}
